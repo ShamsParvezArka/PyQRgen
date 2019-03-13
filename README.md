@@ -3,4 +3,4 @@
 # Requirements
     pyqrcode
 # Screenshot
-![ss-pyqrgen](https://user-images.githubusercontent.com/38325426/54004978-946e7700-414f-11e9-86d6-72a2c091600a.png)
+![pyqrgenss](https://user-images.githubusercontent.com/38325426/54285867-b0807700-459a-11e9-8d58-c6232acaa561.png)
